@@ -5,7 +5,7 @@
 ## Задание 1. Volume: обмен данными между контейнерами в поде
 
 ### Манифест
-- [containers-data-exchange.yaml](containers-data-exchange.yaml)
+- [containers-data-exchange.yaml](https://github.com/ryltsevavikyla-coder/kubernetes_3/blob/main/containers-data-exchange.yaml)
 
 
 
@@ -26,7 +26,7 @@
 ## Задание 2. PV и PVC
 
 ### Манифест
-- [pv-pvc.yaml](pv-pvc.yaml)
+- [pv-pvc.yaml](https://github.com/ryltsevavikyla-coder/kubernetes_3/blob/main/pv-pvc.yaml)
 
 
 ### Скриншоты и пояснения
@@ -56,7 +56,7 @@
 ## Задание 3. StorageClass
 
 ### Манифест
-- [sc.yaml](sc.yaml)
+- [sc.yaml](https://github.com/ryltsevavikyla-coder/kubernetes_3/blob/main/sc.yaml)
 
 
 
